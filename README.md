@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CaptianObvious
 - 👀 I’m interested in gamedev and modding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Lua and XML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - @officer_obvious (Discord) 
+- 📫 How to reach me - @karahvi (Discord) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
