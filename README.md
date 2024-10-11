@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptianObvious
-- 👀 I’m interested in gamedev and modding
+- 👀 I’m interested in gamedev and modding. I'm also keen on CTF
 - 🌱 I’m currently learning Lua and XML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @karahvi (Discord. Telegram) 
